@@ -22,6 +22,9 @@
   <a href="https://x.com/Ricon_Q" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
+  <a href="https://velog.io/@ricon/posts" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Velog&logo=velog&label=&color=30c49c&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="velog logo"  />
+  </a>
 </div>
 
 ###
